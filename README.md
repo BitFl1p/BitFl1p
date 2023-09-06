@@ -7,5 +7,5 @@
 <p>I’m interested in backend coding and game development<br>
 I’m currently learning C++<br>
 You can reach me over at<br>
-<a href="https://www.linkedin.com/in/b1tfl1p/"><img src="https://img.shields.io/badge/Title-37a779?style=for-the-badge" alt="Button Example"></a></p>
+<a href="https://www.linkedin.com/in/b1tfl1p/"><img src="https://github.com/BitFl1p/BitFl1p/blob/master/Resources/linkedin.png" alt="Button Example"></a></p>
 
