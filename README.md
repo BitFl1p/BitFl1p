@@ -5,12 +5,12 @@
 
 
 
-
  
-	👋Hey, I’m @BitFl1p
- 
+	
 
-I’m interested in backend coding and game development. 
+
+<h1>👋Hey, I’m @BitFl1p </h1>
+<p>I’m interested in backend coding and game development.</p>
 <p>I’m currently learning C++</p>
 
 <h3 id="contacts">Contacts</h3>
