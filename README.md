@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [TBA](TBA)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/b1tfl1p/](https://www.linkedin.com/in/b1tfl1p/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/b1tfl1p/)
 
 - 💬 Ask me about **Linux**
 
