@@ -10,7 +10,6 @@
     I’m interested in backend coding and game development. 
     I’m currently learning C++
   </p>
-</body>
 
 
 
@@ -35,4 +34,6 @@
 
 
 ---
+  
+</body>
 </html>
