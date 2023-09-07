@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **a Souls-Like Game**
 
-- 👨‍💻 All of my projects are available at [TBA](TBA)
+- 👨‍💻 All of my projects are available at (to be added)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/b1tfl1p/)
 
