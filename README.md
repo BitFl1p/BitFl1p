@@ -12,12 +12,10 @@ I’m currently learning C++</p>
 <table>
 <thead>
 <tr>
-<th><table></table></th>
 <th><a href="https://www.linkedin.com/in/b1tfl1p/"><img src="https://github.com/BitFl1p/BitFl1p/blob/master/Resources/linkedin.png" width="25"></a></th>
 <th><a href="mailto:jumiciobi@gmail.com"><img src="https://github.com/BitFl1p/BitFl1p/blob/master/Resources/Gmail.png" width="25"></a></th>
 </tr>
 </thead>
 <tbody></tbody>
-</table>
-<hr>
+</table><hr>
 
