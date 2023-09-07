@@ -3,9 +3,12 @@
 
 ---
 
-<h1 id="👋hey-i’m-bitfl1p">👋Hey, I’m @BitFl1p</h1>
-<p>I’m interested in backend coding and game development<br>
-I’m currently learning C++</p>
+
+# 👋Hey, I’m @BitFl1p
+I’m interested in backend coding and game development
+I’m currently learning C++
+<p>
+</p>
 <h3 id="contacts">Contacts</h3>
 
 <table>
