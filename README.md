@@ -6,9 +6,9 @@ A passionate Game Developer, Gamer, and honest-to-god mad-man.
 
 ## My (best?) Projects
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Awesome Readme Templates]()
+ - [Awesome README]()
+ - [How to write a Good readme]()
 
 
 ## Credits
@@ -23,3 +23,4 @@ A passionate Game Developer, Gamer, and honest-to-god mad-man.
 
 
 ![Logo](https://github.com/Orange-Magnet-Games/Asset-Cache/blob/master/Logo/4x/Artboard%201_1%404x.png)
+
